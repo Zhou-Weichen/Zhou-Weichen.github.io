@@ -26,6 +26,5 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 I am a graduate student at the University of Toyama, specializing in **Mathematical and Physical Informatics**. My research focuses on the intersection of **Machine Learning** and **Medical Image Analysis**, aiming to develop computational methods for improving healthcare diagnostics and patient outcomes.  
 

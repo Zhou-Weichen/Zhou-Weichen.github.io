@@ -8,6 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  image_class: "img-fluid w-50" # 添加图片类名，w-50表示50%宽度
   more_info: >
     <p><i class="fas fa-envelope"></i> <a href="mailto:zweic008@gmail.com">zweic008@gmail.com</a></p>
     <p><i class="fas fa-map-marker-alt"></i> Toyama, Japan</p>

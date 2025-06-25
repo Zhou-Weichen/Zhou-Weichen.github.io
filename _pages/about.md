@@ -2,7 +2,7 @@
 layout: about
 title: Weichen Zhou
 permalink: /
-subtitle: Graduate Student | <a href="https://www.u-toyama.ac.jp/">University of Toyama</a> 
+subtitle: "Graduate Student | <a href=\"https://www.u-toyama.ac.jp/\">University of Toyama</a>"
 
 profile:
   align: right

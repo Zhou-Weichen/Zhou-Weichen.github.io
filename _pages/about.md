@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><i class="fas fa-envelope"></i> <a href="mailto:zweic008@gmail.com">zweic008@gmail.com</a></p>
-    <p><i class="fas fa-building"></i> Graduate School of Science and Engineering</p>
     <p><i class="fas fa-map-marker-alt"></i> Toyama, Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
